@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2024
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CurseFetcher", "CurseFetcher\CurseFetcher.csproj", "{C2BCE3D5-06B6-4365-8EE7-E17A3BA85CC8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CurseFunction", "CurseFunction\CurseFunction.csproj", "{03EF62E5-BA8D-47C0-80F7-BEF66DBC96DB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C2BCE3D5-06B6-4365-8EE7-E17A3BA85CC8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C2BCE3D5-06B6-4365-8EE7-E17A3BA85CC8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C2BCE3D5-06B6-4365-8EE7-E17A3BA85CC8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C2BCE3D5-06B6-4365-8EE7-E17A3BA85CC8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{03EF62E5-BA8D-47C0-80F7-BEF66DBC96DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{03EF62E5-BA8D-47C0-80F7-BEF66DBC96DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{03EF62E5-BA8D-47C0-80F7-BEF66DBC96DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{03EF62E5-BA8D-47C0-80F7-BEF66DBC96DB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {68EBD02F-FC44-4132-8122-DF598F408F24}
+	EndGlobalSection
+EndGlobal
